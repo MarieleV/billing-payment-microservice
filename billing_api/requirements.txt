@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+# Para a futura integração relacional e migrações baseadas em transações
+sqlalchemy
+psycopg2-binary
+alembic
