@@ -1,0 +1,37 @@
+# Ambientes Virtuais
+venv/
+env/
+.venv/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variáveis de Ambiente e Segredos
+.env
+.env.*
+
+# Bancos de dados locais temporários
+*.db
+*.sqlite3
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de log e testes
+*.log
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Pacotes e arquivos compactados
+*.zip
+*.tar.gz
